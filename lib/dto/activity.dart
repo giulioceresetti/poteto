@@ -1,0 +1,4 @@
+class Activity {
+  String name;
+
+}
